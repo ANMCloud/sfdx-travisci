@@ -1,5 +1,6 @@
 .classpath
 .DS_Store
+.env
 .sfdx
 .project
 .salesforce
@@ -7,5 +8,6 @@ node_modules
 .idea
 .tern-project
 .settings
+.vscode
 selenium-client-jars/
 test/artifacts
